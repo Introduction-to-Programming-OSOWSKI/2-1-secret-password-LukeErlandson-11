@@ -1,10 +1,9 @@
-p = input("Type password here\n")
 
-def password():
+def password(p):
     if p== "Knights19":
         print ("Access Granted")
     else:
         print("Access Denied")
 
-password()
+password("Kni")
 
