@@ -5,5 +5,5 @@ def password(p):
     else:
         print("ACCESS DENIED")
 
-password("Kni")
+password("password")
 
